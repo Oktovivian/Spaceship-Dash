@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Portal Mysterious Space Background Music No Copyright.mp3-f7b3051e7b753375f32b5585d2f59842.mp3str"
+
+[deps]
+
+source_file="res://Music/Portal Mysterious Space Background Music No Copyright.mp3"
+dest_files=[ "res://.import/Portal Mysterious Space Background Music No Copyright.mp3-f7b3051e7b753375f32b5585d2f59842.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

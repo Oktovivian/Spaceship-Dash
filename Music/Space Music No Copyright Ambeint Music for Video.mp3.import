@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Space Music No Copyright Ambeint Music for Video.mp3-305d268e3fcd05c488eb4d1e1e685e86.mp3str"
+
+[deps]
+
+source_file="res://Music/Space Music No Copyright Ambeint Music for Video.mp3"
+dest_files=[ "res://.import/Space Music No Copyright Ambeint Music for Video.mp3-305d268e3fcd05c488eb4d1e1e685e86.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

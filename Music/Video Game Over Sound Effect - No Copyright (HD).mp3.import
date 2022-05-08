@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Video Game Over Sound Effect - No Copyright (HD).mp3-b084afb45fda29e37f5559cf48e228d2.mp3str"
+
+[deps]
+
+source_file="res://Music/Video Game Over Sound Effect - No Copyright (HD).mp3"
+dest_files=[ "res://.import/Video Game Over Sound Effect - No Copyright (HD).mp3-b084afb45fda29e37f5559cf48e228d2.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
